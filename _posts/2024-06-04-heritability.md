@@ -1,10 +1,18 @@
 ---
 layout: post
-title: Heritability
+title: HERITABILITY
 katex: true
 ---
-This is an example of inline \\(\LaTeX\\). The following is Stokes' theorem in a
-`displaymath` environment: \$$\int_{\partial \Omega} \omega = \int_{\Omega} d\omega\$$
+[Genotype & Phenotype]()
+- Genotype
+	-N/A
+- Phenotype
+	- D
+- Phenotypic Variance
+	- 
+<hr>
+[Heritability](https://en.wikipedia.org/wiki/Heritability)
+
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
