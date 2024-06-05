@@ -1,13 +1,13 @@
 ---
 layout: post
-title: DATA ANALYSIS
+title: "DATA ANALYSIS"
 katex: true
 ---
 Goal: Find out what mistakes were made, how different individuals analyzed data, what tools they used, and their thought process.
 <hr>
 
 
-<details class="collapse-box"><summary style="float:left;"><b>Fight Me, Psychologists: Birth Order Effects Exist And Are Very Strong</b></summary><div markdown="1"><sup><a href="#s1">(1)</a></sup>
+<details class="collapse-box"><summary class="collapse-box-p"><b>Fight Me, Psychologists: Birth Order Effects Exist And Are Very Strong</b></summary><div markdown="1"><p class="collapse-box-p"><a href="#s1">[SOURCE]</a></p>
 
 - "…and a full 2118 of those were the older of the two. That’s 71.4%. p ≤ 0.00000001."
   - How does this number come up?
@@ -15,14 +15,14 @@ Goal: Find out what mistakes were made, how different individuals analyzed data,
   - This is a 
 
 - "The same effect occurs in sibships of other sizes. Of the 1884 respondents from families with three children (n = 1884), 56.8% are the oldest, compared to predicted 33%. In families with four children (n = 765), 48.2% are the oldest, compared to predicted 25%."
-  - 
-  - 
+
+- 
 
 <p class="collapse-box-p">END</p></div></details>
 
 
 
-<details class="collapse-box"><summary style="float:left;"><b>Age Gaps And Birth Order Effects</b></summary><div markdown="1"><sup><a href="#s2">(2)</a></sup>
+<details class="collapse-box"><summary class="collapse-box-p"><b>Age Gaps And Birth Order Effects</b></summary><div markdown="1"><p class="collapse-box-p"><a href="#s2">[SOURCE]</a></p>
 
 - N/A
 
@@ -30,7 +30,7 @@ Goal: Find out what mistakes were made, how different individuals analyzed data,
 
 
 
-<details class="collapse-box"><summary style="float:left;"><b>Age gaps and Birth order: Reanalysis</b></summary><div markdown="1"><sup><a href="#s3">(3)</a></sup>
+<details class="collapse-box"><summary class="collapse-box-p"><b>Age gaps and Birth order: Reanalysis</b></summary><div markdown="1"><p class="collapse-box-p"><a href="#s3">[SOURCE]</a></p>
 
 - N/A
 
@@ -38,7 +38,7 @@ Goal: Find out what mistakes were made, how different individuals analyzed data,
 
 
 
-<details class="collapse-box"><summary style="float:left;"><b>Age gaps and Birth order: Failed reproduction of results</b></summary><div markdown="1"><sup><a href="#s4">(4)</a></sup>
+<details class="collapse-box"><summary class="collapse-box-p"><b>Age gaps and Birth order: Failed reproduction of results</b></summary><div markdown="1"><p class="collapse-box-p"><a href="#s4">[SOURCE]</a></p>
 
 - N/A
 
@@ -46,7 +46,7 @@ Goal: Find out what mistakes were made, how different individuals analyzed data,
 
 
 
-<details class="collapse-box"><summary style="float:left;"><b>Birth order effect found in Nobel Laureates in Physics</b></summary><div markdown="1"><sup><a href="#s5">(5)</a></sup>
+<details class="collapse-box"><summary class="collapse-box-p"><b>Birth order effect found in Nobel Laureates in Physics</b></summary><div markdown="1"><p class="collapse-box-p"><a href="#s5">[SOURCE]</a></p>
 
 - N/A
 
@@ -55,7 +55,7 @@ Goal: Find out what mistakes were made, how different individuals analyzed data,
 
 
 
-<details class="collapse-box"><summary style="float:left;"><b>Historical mathematicians exhibit a birth order effect too</b></summary><div markdown="1"><sup><a href="#s6">(6)</a></sup>
+<details class="collapse-box"><summary class="collapse-box-p"><b>Historical mathematicians exhibit a birth order effect too</b></summary><div markdown="1"><p class="collapse-box-p"><a href="#s6">[SOURCE]</a></p>
 
 - N/A
 

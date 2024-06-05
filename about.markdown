@@ -31,7 +31,7 @@ Collapsing Text in md
 
 <hr>
 Collapsing Text with Source
-<details class="collapse-box"><summary style="float:left;"><b>Title</b></summary><div markdown="1"><sup><a href="#s0">(0)</a></sup>
+<details class="collapse-box"><summary class="collapse-box-p"><b>TITLE</b></summary><div markdown="1"><p class="collapse-box-p"><a href="#s0">[SOURCE]</a></p>
 
 - N/A
 

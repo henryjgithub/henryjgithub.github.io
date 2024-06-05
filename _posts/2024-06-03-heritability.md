@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HERITABILITY
+title: "HERITABILITY"
 katex: true
 ---
 Work:
@@ -11,15 +11,23 @@ Work:
 
 <hr>
 
-Genotype & Phenotype
-- Genotype
-	-N/A
-- Phenotype
-	- 
-- Phenotypic Variance
-	- 
-<hr>
-[Heritability](https://en.wikipedia.org/wiki/Heritability)
+<details class="collapse-box"><summary class="collapse-box-p"><b>GENOTYPE</b></summary><div markdown="1">
+
+- N/A
+
+<p class="collapse-box-p">END</p></div></details>
+
+<details class="collapse-box"><summary class="collapse-box-p"><b>PHENOTYPE</b></summary><div markdown="1">
+
+- N/A
+
+<p class="collapse-box-p">END</p></div></details>
+
+<details class="collapse-box"><summary class="collapse-box-p"><b>PHENOTYPIC VARIANCE</b></summary><div markdown="1">
+
+- N/A
+
+<p class="collapse-box-p">END</p></div></details>
 
 
 [jekyll-docs]: http://jekyllrb.com/docs/home

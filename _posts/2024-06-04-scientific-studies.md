@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SCIENTIFIC STUDIES
+title: "SCIENTIFIC STUDIES"
 katex: true
 ---
 [jekyll-docs]: http://jekyllrb.com/docs/home

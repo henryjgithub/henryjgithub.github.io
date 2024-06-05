@@ -245,6 +245,15 @@
   text-align: right;
   margin-right:$spacing-unit;
   @include relative-font-size(1.5);
+  
+  @include media-query($on-palm) {
+    padding-right: 45px;
+  }
+
+  &,
+  &:visited {
+    color: $site-title-color;
+  }
 }
 
 
@@ -334,6 +343,7 @@
   align: right;
   text-align: right;
   margin-right: $spacing-unit;
+  margin-top: $spacing-unit;
   font-weight: bold;
 }
 
