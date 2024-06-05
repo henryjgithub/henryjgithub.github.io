@@ -28,4 +28,16 @@ Collapsing Text in md
   <summary>Expand</summary>
   Uncollapsed section
 </details>
+
+<hr>
+Collapsing Text with Source
+<details class="collapse-box"><summary style="float:left;"><b>Title</b></summary><div markdown="1"><sup><a href="#s0">(0)</a></sup>
+
+- N/A
+
+<p class="collapse-box-p">END</p></div></details>
+
+<sup id="s0"><a href="#s0">(0)</a></sup>
+[Source: N/A-------------]()
+
 [jekyll-organization]: https://github.com/jekyll

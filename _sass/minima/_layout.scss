@@ -319,6 +319,22 @@
 }
 
 
+/**
+ * Drop Box Text
+ */
+.collapse-box{
+  border: 1px solid black;
+  min-height: $spacing-unit;
+  margin-bottom: $spacing-unit;
+  background-color: rgb(250, 235, 215);
+}
+
+.collapse-box-p{
+  align: right;
+  text-align: right;
+  margin-right: $spacing-unit;
+  font-weight: bold;
+}
 
 /**
  * Pagination navbar
