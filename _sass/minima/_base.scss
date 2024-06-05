@@ -218,8 +218,8 @@ pre {
   margin-left: auto;
   padding-right: $spacing-unit * .5;
   padding-left: $spacing-unit * .5;
-  border-left:5px solid black;
-  border-bottom:5px solid black;
+  border-left:2px solid black;
+  border-bottom:2px solid black;
   @extend %clearfix;
 
   @media screen and (min-width: $on-large) {
