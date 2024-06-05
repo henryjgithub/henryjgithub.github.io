@@ -339,6 +339,21 @@
   overflow:hidden
 }
 
+.collapse-box-title{
+  align: right;
+  text-align: right;
+  margin-right: $spacing-unit;
+  padding-top: $spacing-unit;
+  font-weight: bold;
+}
+
+.collapse-box-source{
+  align: right;
+  text-align: right;
+  margin-right: $spacing-unit;
+  font-weight: bold;
+}
+
 .collapse-box-p{
   align: right;
   text-align: right;

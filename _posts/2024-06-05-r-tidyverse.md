@@ -3,7 +3,7 @@ layout: post
 title: "R: TIDYVERSE"
 katex: true
 ---
-<details class="collapse-box"><summary class="collapse-box-p"><b>RESOURCES</b></summary><div markdown="1"><sup>
+<details class="collapse-box"><summary class="collapse-box-title"><b>RESOURCES</b></summary><div markdown="1"><sup>
 
 [Github - Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
 

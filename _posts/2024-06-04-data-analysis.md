@@ -7,7 +7,7 @@ Goal: Find out what mistakes were made, how different individuals analyzed data,
 <hr>
 
 
-<details class="collapse-box"><summary class="collapse-box-p"><b>Fight Me, Psychologists: Birth Order Effects Exist And Are Very Strong</b></summary><div markdown="1"><p class="collapse-box-p"><a href="#s1">[SOURCE]</a></p>
+<details class="collapse-box"><summary class="collapse-box-title"><b>Fight Me, Psychologists: Birth Order Effects Exist And Are Very Strong</b></summary><div markdown="1"><p class="collapse-box-source"><a href="#s1">[SOURCE]</a></p>
 
 - "…and a full 2118 of those were the older of the two. That’s 71.4%. p ≤ 0.00000001."
   - How does this number come up?
@@ -22,7 +22,7 @@ Goal: Find out what mistakes were made, how different individuals analyzed data,
 
 
 
-<details class="collapse-box"><summary class="collapse-box-p"><b>Age Gaps And Birth Order Effects</b></summary><div markdown="1"><p class="collapse-box-p"><a href="#s2">[SOURCE]</a></p>
+<details class="collapse-box"><summary class="collapse-box-title"><b>Age Gaps And Birth Order Effects</b></summary><div markdown="1"><p class="collapse-box-source"><a href="#s2">[SOURCE]</a></p>
 
 - N/A
 
@@ -30,7 +30,7 @@ Goal: Find out what mistakes were made, how different individuals analyzed data,
 
 
 
-<details class="collapse-box"><summary class="collapse-box-p"><b>Age gaps and Birth order: Reanalysis</b></summary><div markdown="1"><p class="collapse-box-p"><a href="#s3">[SOURCE]</a></p>
+<details class="collapse-box"><summary class="collapse-box-title"><b>Age gaps and Birth order: Reanalysis</b></summary><div markdown="1"><p class="collapse-box-source"><a href="#s3">[SOURCE]</a></p>
 
 - N/A
 
@@ -38,7 +38,7 @@ Goal: Find out what mistakes were made, how different individuals analyzed data,
 
 
 
-<details class="collapse-box"><summary class="collapse-box-p"><b>Age gaps and Birth order: Failed reproduction of results</b></summary><div markdown="1"><p class="collapse-box-p"><a href="#s4">[SOURCE]</a></p>
+<details class="collapse-box"><summary class="collapse-box-title"><b>Age gaps and Birth order: Failed reproduction of results</b></summary><div markdown="1"><p class="collapse-box-source"><a href="#s4">[SOURCE]</a></p>
 
 - N/A
 
@@ -46,7 +46,7 @@ Goal: Find out what mistakes were made, how different individuals analyzed data,
 
 
 
-<details class="collapse-box"><summary class="collapse-box-p"><b>Birth order effect found in Nobel Laureates in Physics</b></summary><div markdown="1"><p class="collapse-box-p"><a href="#s5">[SOURCE]</a></p>
+<details class="collapse-box"><summary class="collapse-box-title"><b>Birth order effect found in Nobel Laureates in Physics</b></summary><div markdown="1"><p class="collapse-box-source"><a href="#s5">[SOURCE]</a></p>
 
 - N/A
 
@@ -55,7 +55,7 @@ Goal: Find out what mistakes were made, how different individuals analyzed data,
 
 
 
-<details class="collapse-box"><summary class="collapse-box-p"><b>Historical mathematicians exhibit a birth order effect too</b></summary><div markdown="1"><p class="collapse-box-p"><a href="#s6">[SOURCE]</a></p>
+<details class="collapse-box"><summary class="collapse-box-title"><b>Historical mathematicians exhibit a birth order effect too</b></summary><div markdown="1"><p class="collapse-box-source"><a href="#s6">[SOURCE]</a></p>
 
 - N/A
 

@@ -11,19 +11,19 @@ Work:
 
 <hr>
 
-<details class="collapse-box"><summary class="collapse-box-p"><b>GENOTYPE</b></summary><div markdown="1">
+<details class="collapse-box"><summary class="collapse-box-title"><b>GENOTYPE</b></summary><div markdown="1">
 
 - N/A
 
 <p class="collapse-box-p">END</p></div></details>
 
-<details class="collapse-box"><summary class="collapse-box-p"><b>PHENOTYPE</b></summary><div markdown="1">
+<details class="collapse-box"><summary class="collapse-box-title"><b>PHENOTYPE</b></summary><div markdown="1">
 
 - N/A
 
 <p class="collapse-box-p">END</p></div></details>
 
-<details class="collapse-box"><summary class="collapse-box-p"><b>PHENOTYPIC VARIANCE</b></summary><div markdown="1">
+<details class="collapse-box"><summary class="collapse-box-title"><b>PHENOTYPIC VARIANCE</b></summary><div markdown="1">
 
 - N/A
 
