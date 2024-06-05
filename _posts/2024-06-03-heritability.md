@@ -3,11 +3,19 @@ layout: post
 title: HERITABILITY
 katex: true
 ---
-[Genotype & Phenotype]()
+Work:
+- Understand what heritability is, variance divided by variance?
+	- What does it mean when one value goes up and one goes down?
+	- What does a heritability of p=1 mean vs p=0?
+	- Why can p>1 for heritability?
+
+<hr>
+
+Genotype & Phenotype
 - Genotype
 	-N/A
 - Phenotype
-	- D
+	- 
 - Phenotypic Variance
 	- 
 <hr>

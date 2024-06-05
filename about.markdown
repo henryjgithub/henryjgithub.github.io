@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: ABOUT
 permalink: /about/
 katex: true
 ---
@@ -22,5 +22,10 @@ This is an example of inline \\(\LaTeX\\). The following is Stokes' theorem in a
 `displaymath` environment: \$\int_{\partial \Omega} \omega = \int_{\Omega} d\omega\$
 \$$\int_{\partial \Omega} \omega = \int_{\Omega} d\omega\$$
 
-
+<hr>
+Collapsing Text in md
+<details>
+  <summary>Expand</summary>
+  Uncollapsed section
+</details>
 [jekyll-organization]: https://github.com/jekyll

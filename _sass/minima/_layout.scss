@@ -2,14 +2,19 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $border-color-03;
+  /* border-top: 5px solid $border-color-03; */
   /* border-bottom: 1px solid $border-color-01; */
-  border-bottom: 5px solid black;
+  /* border-image: linear-gradient(to center, #000 20%, transparent 20%) 100% 1; */
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
 
   // Positioning context for the mobile navigation icon
   position: relative;
+}
+
+.site-gradientborder{
+  height:2px;
+  background: linear-gradient(to right, rgba(218,206,194,1) 0%,rgba(0,0,0,1) 50%,rgba(218,206,194,1) 100%);
 }
 
 .site-title {
@@ -33,9 +38,10 @@
   position: absolute;
   top: 9px;
   right: $spacing-unit * .5;
-  background-color: $background-color;
-  border: 1px solid $border-color-01;
-  border-radius: 5px;
+  /* background-color: $background-color; */
+  background-color: rgb(218,206,194);
+  /* border: 1px solid $border-color-01; */
+  border: 1px solid black;
   text-align: right;
 
   .nav-trigger {
@@ -49,6 +55,7 @@
     line-height: 0;
     padding-top: 10px;
     text-align: center;
+    background-color:rgb(218,206,194);
 
     > svg path {
       fill: $border-color-03;
