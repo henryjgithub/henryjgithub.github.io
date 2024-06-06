@@ -8,7 +8,7 @@ Goal: Find out what mistakes were made, how different individuals analyzed data,
 
 
 <details class="collapse-box"><summary class="collapse-box-title"><b>Fight Me, Psychologists: Birth Order Effects Exist And Are Very Strong</b></summary><div markdown="1"><p class="collapse-box-source"><a href="#s1">[SOURCE]</a></p>
-
+<hr>
 - "…and a full 2118 of those were the older of the two. That’s 71.4%. p ≤ 0.00000001."
   - How does this number come up?
   - 7,248 is the total of which 2118 only have 1 sibiling.
@@ -17,54 +17,59 @@ Goal: Find out what mistakes were made, how different individuals analyzed data,
 - "The same effect occurs in sibships of other sizes. Of the 1884 respondents from families with three children (n = 1884), 56.8% are the oldest, compared to predicted 33%. In families with four children (n = 765), 48.2% are the oldest, compared to predicted 25%."
 
 - 
+<hr>
+<p class="collapse-box-p">END</p></div></details>
+
+
+
+<details class="collapse-box"><summary class="collapse-box-title"><b>Age Gaps And Birth Order Effects</b></summary><div markdown="1"><p class="collapse-box-source"><a href="#s2">[SOURCE]</a></p><hr>
+
+- N/A
+<hr>
 
 <p class="collapse-box-p">END</p></div></details>
 
 
 
-<details class="collapse-box"><summary class="collapse-box-title"><b>Age Gaps And Birth Order Effects</b></summary><div markdown="1"><p class="collapse-box-source"><a href="#s2">[SOURCE]</a></p>
+<details class="collapse-box"><summary class="collapse-box-title"><b>Age gaps and Birth order: Reanalysis</b></summary><div markdown="1"><p class="collapse-box-source"><a href="#s3">[SOURCE]</a></p><hr>
 
 - N/A
+<hr>
 
 <p class="collapse-box-p">END</p></div></details>
 
 
 
-<details class="collapse-box"><summary class="collapse-box-title"><b>Age gaps and Birth order: Reanalysis</b></summary><div markdown="1"><p class="collapse-box-source"><a href="#s3">[SOURCE]</a></p>
+<details class="collapse-box"><summary class="collapse-box-title"><b>Age gaps and Birth order: Failed reproduction of results</b></summary><div markdown="1"><p class="collapse-box-source"><a href="#s4">[SOURCE]</a></p><hr>
 
 - N/A
+<hr>
 
 <p class="collapse-box-p">END</p></div></details>
 
 
 
-<details class="collapse-box"><summary class="collapse-box-title"><b>Age gaps and Birth order: Failed reproduction of results</b></summary><div markdown="1"><p class="collapse-box-source"><a href="#s4">[SOURCE]</a></p>
+<details class="collapse-box"><summary class="collapse-box-title"><b>Birth order effect found in Nobel Laureates in Physics</b></summary><div markdown="1"><p class="collapse-box-source"><a href="#s5">[SOURCE]</a></p><hr>
 
 - N/A
-
-<p class="collapse-box-p">END</p></div></details>
-
-
-
-<details class="collapse-box"><summary class="collapse-box-title"><b>Birth order effect found in Nobel Laureates in Physics</b></summary><div markdown="1"><p class="collapse-box-source"><a href="#s5">[SOURCE]</a></p>
-
-- N/A
+<hr>
 
 <p class="collapse-box-p">END</p></div></details>
 
 
 
 
-<details class="collapse-box"><summary class="collapse-box-title"><b>Historical mathematicians exhibit a birth order effect too</b></summary><div markdown="1"><p class="collapse-box-source"><a href="#s6">[SOURCE]</a></p>
+<details class="collapse-box"><summary class="collapse-box-title"><b>Historical mathematicians exhibit a birth order effect too</b></summary><div markdown="1"><p class="collapse-box-source"><a href="#s6">[SOURCE]</a></p><hr>
 
 - N/A
+<hr>
 
 <p class="collapse-box-p">END</p></div></details>
 
 
 <hr>
 <sup id="s1"><a href="#s1">(1)</a></sup>
-[Fight Me, Psychologists: Birth Order Effects Exist And Are Very Strong]()
+[Fight Me, Psychologists: Birth Order Effects Exist And Are Very Strong](https://slatestarcodex.com/2018/01/08/fight-me-psychologists-birth-order-effects-exist-and-are-very-strong/)
 
 <sup id="s2"><a href="#s2">(2)</a></sup>
 [Age Gaps And Birth Order Effects](https://slatestarcodex.com/2019/05/14/age-gaps-and-birth-order-effects/)
