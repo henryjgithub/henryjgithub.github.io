@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DATA ANALYSIS"
+title: "BIRTH ORDER"
 katex: true
 ---
 Goal: Find out what mistakes were made, how different individuals analyzed data, what tools they used, and their thought process.
