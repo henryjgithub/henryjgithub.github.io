@@ -92,7 +92,7 @@ Defined: Narrow-Sense Heritability:
 </table> 
 
 - Please note that varriance can be any positive real number, it does not need to be in the range of [0,1]. The table above is just an example.
-- [Case 2] talks about a situation in which there is no genetic variation. The phenotype is expressed all in the environment. A case where genetic variation will be 0 is if in the sample of humans we get that genotype is the same.
+- [Case 2] talks about a situation in which there is no genetic variation. The phenotype is expressed all in the environment.
   - For example if all humans were exactly 6ft. The variance would be 0, since there is no dispersion(think of shotgun vs. sniper example).
   - Another example is that we all have two arms.
   - This means that the only phenotypic variation is in environment. Like if you got mauled by a bear and you lost one arm.
