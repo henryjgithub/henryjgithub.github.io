@@ -28,7 +28,7 @@ Defined: Narrow-Sense Heritability:
 - Genotype = Genetics
 - Phenotype = Environment(Genotype), where Environment() is a function that acts on Genotype.
   - Definition 1, "The phenotype is the consequence of the genotype on the world. In brief, a phenotypic trait is any trait that an individual is made of!"<sup id="s1"><a href="#s1">(1)</a></sup>
-  - Definition 2: "... what actually happens, including all genetic or environmental causes. The phenotypic length of your foot is, thrillingly, the actual length of your foot."<sup id="s2"><a href="#s2">(2)</a></sup>
+  - Definition 2: "... what actually happens, including all genetic or environmental causes. The phenotypic length of your foot is, thrillingly, the actual length of your foot."<sup><a href="#s2">(2)</a></sup>
   - Example 1: You are born with two arms and then you get mauled by a bear. Now you have 1 arm. So your phenotype of the number of arms you have is 1. The environment acts on the number of arms.
   - Example 2: If you have black hair and then you dye your hair blue. Now you have a hair color phenotype of the dyed hair color, or a hair color phenotype of blue.
 
@@ -38,11 +38,11 @@ Defined: Narrow-Sense Heritability:
 <details class="collapse-box"><summary class="collapse-box-title"><b>Understanding Phenotype Variance</b></summary><div markdown="1"><hr>
 
 - Before talking about a phenotype's variance we must understand what variance is first. Variance is a measure of dispersion. In the world we can measure and categorize things. 
-  - If you only have brown and blue eyes than the variance is minimal because the different can only be brown or blue. If we can now dye our eye colors or wear colored contact lenses then when we measure the eye colors of people it will be a spectrum, instead of binary. This would increase the variance.
+  - If you only have brown and blue eyes than the variance is minimal because the difference can only be brown or blue. If we can now dye our eye colors or wear colored contact lenses then when we measure the eye colors of people it will be a spectrum, instead of binary. This would increase the variance.
   - Think of high variance as a shotgun and low variance as a sniper. When we shoot a shotgun the pellets go everywhere, the "dispersion" is high. When we shoot a sniper the disperion is almost 0.
 - So when we talk about a phenotype's variance we are talking about how much "dispersion" a trait has.
 - In this case a phenotype's variance is made up of two components, genetic and environment. Further we can sub-divide a phenotype's variance depending on genetics into genetic additive variance and genetic dominance variance.
-  - "The additive genetic variance is the genetic variance that is due to additive interaction between alleles. The dominance of genetic variance is due to non-additive interactions between allele."<sup id="s1"><a href="#s1">(1)</a></sup>
+  - "The additive genetic variance is the genetic variance that is due to additive interaction between alleles. The dominance of genetic variance is due to non-additive interactions between allele."<sup><a href="#s1">(1)</a></sup>
 
 <hr><p class="collapse-box-p">END</p></div></details>
 
@@ -99,6 +99,10 @@ Defined: Narrow-Sense Heritability:
 - In [Case 3], it is the opposite of [Case 2]. We have no environmental variance. An example of this would be if every baby(in this case they differ genetically) is given the same environment. Meaning they get the same meals they get the same nutrition, exercise, they do everything the same (very scary I know). All of their phenotype differences are then influenced by their genetics. So let us say we had control like we said above. And then we measured their heights. The difference then must be their genetics. Since we controlled for environment perfectly.
 - In [Case 4], there is a balance of genetic variance and environmental variance. We say that 50% of variation is due to genetics. So if we chose weight as the phenotype 50% of the variation is due to genetics and the other 50% is due to environment.
 - Note in [Case 1], everyone must be a clone (no genetic variation) and everyone must be controlled environmentally.
+- We can then think of broad-sense heritability as a function of (1) a genetic pool and a (2) type of environment. heritability then measures how much the dispersion of (1) and (2) on a single phenotype is determined by (1).
+  - Examples of (1) can be, your family, family + friends, family + friends + friend of friends, a district, a city, a state, a country, a continent, the world.
+  - Examples of (2) can be, your home, neighborhood, city, state, country, contitnent, the world.
+    - The difference is that each place on average has different cultures, food intake, traditions, etc. So one place may eat more fish than another. Or one place may be a walkable city vs. a car city. One may have more pollution than another. One may have radioactive fallout, etc.
 
 
 <hr><p class="collapse-box-p">END</p></div></details>
