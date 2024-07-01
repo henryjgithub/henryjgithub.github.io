@@ -8,7 +8,7 @@ Returning to your roots is a fruitful but pain-inducing effort. In a world where
 
 Think of who you are. Your background, where your parents are from. The world throws stereotypes right at you. Do you choose to believe them? With enough training you may. Like a dog and its owner. You bend your knee to society. For who wants to live life being castrated by their owner? Some leave their owner, others conform, and some rebel. Each action has its consequences. Each action shows the nature of the dog to its owner. The dogs emotions to its owner. The dogs insecurities. How you view society reflects on how you view yourself and how you view yourself is how you view dogs of your background.
 
-My culture inherently is viewed negatively throughout the nation I grew up in. In many cases being a minority people will use power to in their talks and views of you. With the power of numbers the minority will get pushed around. This is to say that as the minority decreases the likelihood of a bad actor in the majority will arise. As they arise they will inflict harm onto the minority. In a sense it is the law of large numbers. The likelihood of getting extreme negative events is not increases but, how should I put it. There will be more events of such kind. As N grows, so does the number of bad events.
+My culture inherently is viewed negatively throughout the nation I grew up in. In many cases being a minority people will use power to in their talks and views of you. With the power of numbers the minority will get pushed around. This is to say that as the minority decreases the likelihood of a bad actor in the majority will arise. As they arise they will inflict harm onto the minority. In a sense it is the law of large numbers. The likelihood of getting extreme negative events is not increased but there will be more events of such kind. As N grows, so does the number of bad events.
 
 In this case the bad actors may set trends. These trends become stereotypes. That is not to say that people do not inherently hate. If someone takes your job you will feel a certain way. Your livelihood will impact how you view the other group. To protect yourself you will feel emotions towards certain individuals.
 
@@ -18,7 +18,7 @@ As I started consuming more Chinese related media you get to see that the Chines
 
 If you are different from the rest, with no support network it is difficult to break the mold of your stereotypes, because that is what people expect of you. As your support network grows to become larger you may sense that actors in your group are starting to stereotype the minorities in your area. And so the cycle repeats.
 
-Extrapolate this to blue-collar and white-collar workers. How do you break this cycle? At least for youself you must abstract away to the most common denominator in every individual. That is to say that one must view all individuals as human. Even further you can extrapolate to all living things. If there are aliens that is to say, or other intelligent individuals than the common denominator between them. Even maybe AI, today is being stereotyped.
+How do you break this cycle? At least for youself you must abstract away to the most common denominator in every individual. That is to say that one must view all individuals as human.
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
